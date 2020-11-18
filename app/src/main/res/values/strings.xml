@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">天香记账</string>
+    <string name="app_name">Aria记账</string>
     <string name="editOne">记一笔...</string>
     <string name="month_out">本月支出</string>
     <string name="month_in">本月收入</string>
